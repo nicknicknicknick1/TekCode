@@ -26,4 +26,4 @@ spring:
       connection-test-query: SELECT 1
 
 mybatis:
-  mapper-locations: classpath:mapping/*.xml
+  mapper-locations: classpath:mapper/*.xml
